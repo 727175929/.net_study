@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "类方法", "类方法\类方法.csproj", "{ABAAB7F3-A7EB-4F10-A853-CB89C1726439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABAAB7F3-A7EB-4F10-A853-CB89C1726439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAAB7F3-A7EB-4F10-A853-CB89C1726439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABAAB7F3-A7EB-4F10-A853-CB89C1726439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABAAB7F3-A7EB-4F10-A853-CB89C1726439}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
